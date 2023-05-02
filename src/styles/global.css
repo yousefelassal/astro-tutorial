@@ -31,6 +31,8 @@ html {
       rgba(1, 65, 255, 0),
       rgba(1, 65, 255, 0.3)
     );
+
+    color: #fff;
   }
 
   .dark .nav-links a {
